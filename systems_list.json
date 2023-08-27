@@ -1,0 +1,3557 @@
+[
+    {
+        "174662": "VIC-20"
+    },
+    {
+        "36003": "Amiga"
+    },
+    {
+        "240881": "Odyssey 2"
+    },
+    {
+        "163332": "NVIDIA Shield TV"
+    },
+    {
+        "33149": "Mega Drive"
+    },
+    {
+        "240911": "Oric Atmos"
+    },
+    {
+        "139807": "Apple II"
+    },
+    {
+        "237944": "Neo-Geo CD"
+    },
+    {
+        "35808": "CDTV"
+    },
+    {
+        "36457": "Naomi 2"
+    },
+    {
+        "238009": "Neo-Geo CDZ"
+    },
+    {
+        "238008": "IM"
+    },
+    {
+        "181228": "APF TV Fun"
+    },
+    {
+        "190499": "Nintendo Entertainment System - Aladdin Deck Enhancer"
+    },
+    {
+        "238065": "FM Towns Marty"
+    },
+    {
+        "238067": "FM Towns"
+    },
+    {
+        "75319": "Technos Japan HD6309 Based"
+    },
+    {
+        "189102": "Playdia"
+    },
+    {
+        "247722": "Toaplan Slapfight"
+    },
+    {
+        "29789": "Triforce"
+    },
+    {
+        "190500": "Super Famicom - Satellaview"
+    },
+    {
+        "190538": "ZX81"
+    },
+    {
+        "190498": "Family Computer - Datach"
+    },
+    {
+        "190512": "PV-1000"
+    },
+    {
+        "190532": "CD-i"
+    },
+    {
+        "190535": "Pocketstation"
+    },
+    {
+        "84220": "Jaguar"
+    },
+    {
+        "82924": "Saturn"
+    },
+    {
+        "190641": "ALF TV Game"
+    },
+    {
+        "137569": "Acorn Archimedes"
+    },
+    {
+        "136146": "Dragon 32/64"
+    },
+    {
+        "190642": "Alice"
+    },
+    {
+        "190645": "EG2000 Color Genie"
+    },
+    {
+        "82437": "Taito F1 System"
+    },
+    {
+        "82469": "Taito Unique"
+    },
+    {
+        "82756": "Bonze Adventure Hardware"
+    },
+    {
+        "89078": "Taito Type X4"
+    },
+    {
+        "240842": "Lynx"
+    },
+    {
+        "75259": "Taito Type X"
+    },
+    {
+        "240837": "Apple IIGS"
+    },
+    {
+        "240866": "Game Wave Family Entertainment System"
+    },
+    {
+        "240838": "ios"
+    },
+    {
+        "240869": "GP32"
+    },
+    {
+        "240844": "ADAM"
+    },
+    {
+        "240847": "Commodore 128"
+    },
+    {
+        "240841": "XE Video Game System (XEGS)"
+    },
+    {
+        "240882": "HyperScan"
+    },
+    {
+        "240848": "MAX Machine"
+    },
+    {
+        "240858": "Enterprise"
+    },
+    {
+        "240850": "PET"
+    },
+    {
+        "240851": "Plus/4"
+    },
+    {
+        "240872": "Game Master"
+    },
+    {
+        "240860": "FM-7"
+    },
+    {
+        "240896": "MTX512"
+    },
+    {
+        "240876": "VC 4000"
+    },
+    {
+        "240898": "PC-8801"
+    },
+    {
+        "240901": "PC-9801"
+    },
+    {
+        "240918": "SC-3000"
+    },
+    {
+        "240920": "Sord M5"
+    },
+    {
+        "240916": "RCA Studio II"
+    },
+    {
+        "240928": "TRS-80 Color Computer"
+    },
+    {
+        "240922": "TRS-80"
+    },
+    {
+        "240929": "Socrates"
+    },
+    {
+        "240924": "TI 99/4A"
+    },
+    {
+        "240932": "XaviXPORT"
+    },
+    {
+        "36437": "CPC 6128"
+    },
+    {
+        "36012": "Nintendo Entertainment System"
+    },
+    {
+        "247741": "PV-2000"
+    },
+    {
+        "247745": "Toaplan Unique"
+    },
+    {
+        "75266": "Taito SZ System"
+    },
+    {
+        "240904": "PC-FX"
+    },
+    {
+        "248552": "Video 2400"
+    },
+    {
+        "248553": "Video 2000"
+    },
+    {
+        "248554": "Video 2501"
+    },
+    {
+        "248559": "Elektronika 60"
+    },
+    {
+        "248560": "MS 0511"
+    },
+    {
+        "248561": "MS 1504"
+    },
+    {
+        "248555": "Video 2800"
+    },
+    {
+        "248556": "Video 3000"
+    },
+    {
+        "183551": "Xbox Series X"
+    },
+    {
+        "29695": "Model 2"
+    },
+    {
+        "89234": "Game Boy Advance"
+    },
+    {
+        "248760": "SV-318"
+    },
+    {
+        "138489": "TurboGrafx-CD"
+    },
+    {
+        "248941": "Sharp X1"
+    },
+    {
+        "249082": "XGP"
+    },
+    {
+        "249078": "SVI-738"
+    },
+    {
+        "249076": "SV-328"
+    },
+    {
+        "249077": "SVI-728"
+    },
+    {
+        "249220": "Play System 1.5"
+    },
+    {
+        "240855": "BK"
+    },
+    {
+        "249141": "Contra based hardware"
+    },
+    {
+        "249167": "Xexex based hardware"
+    },
+    {
+        "249268": "Tmnt based hardware"
+    },
+    {
+        "249334": "X-Men based hardware"
+    },
+    {
+        "249351": "Chequered Flag based hardware"
+    },
+    {
+        "249395": "TMNT2 based hardware"
+    },
+    {
+        "249523": "Nemesis hardware"
+    },
+    {
+        "249525": "Blades of steel based hardware"
+    },
+    {
+        "249725": "Bishi Bashi hardware"
+    },
+    {
+        "249927": "Karnov Hardware"
+    },
+    {
+        "249934": "Wolf fang hardware"
+    },
+    {
+        "249973": "Funk jet hardware"
+    },
+    {
+        "189223": "Systeme 357"
+    },
+    {
+        "75336": "Sony ZN-2"
+    },
+    {
+        "83494": "Playstation 2"
+    },
+    {
+        "75772": "Seta 2nd Generation Hardware"
+    },
+    {
+        "29469": "Atari CoJag"
+    },
+    {
+        "249920": "Midnight resistance hardware"
+    },
+    {
+        "249949": "Caveman ninja hardware"
+    },
+    {
+        "249968": "Super burger time hardware"
+    },
+    {
+        "75282": "Dyna Z80 Based"
+    },
+    {
+        "240926": "Tutor"
+    },
+    {
+        "168000": "Commodore 64"
+    },
+    {
+        "73917": "Videotronics Poker Hardware"
+    },
+    {
+        "250887": "Namco System ES3"
+    },
+    {
+        "190543": "Pok\u00e9mon Mini"
+    },
+    {
+        "252086": "PC-6001"
+    },
+    {
+        "77613": "Photon System"
+    },
+    {
+        "252228": "TO7"
+    },
+    {
+        "183673": "MO5"
+    },
+    {
+        "83485": "Switch"
+    },
+    {
+        "82805": "PC - Personal Computer"
+    },
+    {
+        "252747": "MiSTer"
+    },
+    {
+        "29794": "Neo Geo (MVS/AES)"
+    },
+    {
+        "253696": "Taito X System"
+    },
+    {
+        "75099": "Cubo CD32"
+    },
+    {
+        "253726": "TO8"
+    },
+    {
+        "253725": "Oric 1"
+    },
+    {
+        "29689": "Model 1"
+    },
+    {
+        "29755": "ST-V"
+    },
+    {
+        "81878": "Williams Multigame"
+    },
+    {
+        "29506": "Capcom Play System 2"
+    },
+    {
+        "74062": "Cave 1st Generation"
+    },
+    {
+        "29597": "Polygame Master"
+    },
+    {
+        "75911": "IGS Polygame Master 2"
+    },
+    {
+        "30214": "Toaplan"
+    },
+    {
+        "74117": "Sega System 18"
+    },
+    {
+        "247711": "Toaplan Twin Cobra"
+    },
+    {
+        "137556": "Aamber Pegasus"
+    },
+    {
+        "240913": "Ouya"
+    },
+    {
+        "240863": "Super Acan"
+    },
+    {
+        "29731": "Atomiswave"
+    },
+    {
+        "80326": "Irem M-15"
+    },
+    {
+        "91845": "PSP"
+    },
+    {
+        "29624": "Irem M-92"
+    },
+    {
+        "73834": "Mirco Games i8080 Based"
+    },
+    {
+        "73841": "Tecmo TPS"
+    },
+    {
+        "73837": "Konami Z80 Based"
+    },
+    {
+        "73848": "Aristocrat MK6"
+    },
+    {
+        "29652": "Midway T Unit"
+    },
+    {
+        "29658": "Midway V Unit"
+    },
+    {
+        "73851": "Kaneko M68000 Based"
+    },
+    {
+        "73844": "Irem M-58"
+    },
+    {
+        "73890": "IGS Z180 Based"
+    },
+    {
+        "73861": "\"Unknown\" PC Based"
+    },
+    {
+        "29663": "Midway Wolf Unit"
+    },
+    {
+        "73872": "Toaplan System 2"
+    },
+    {
+        "73874": "Oriental Soft M68000 Based"
+    },
+    {
+        "29671": "Williams Midway Y Unit"
+    },
+    {
+        "29683": "Rock-Ola"
+    },
+    {
+        "73877": "Video System M68000 Based"
+    },
+    {
+        "73882": "Midway i8080 B&W Based"
+    },
+    {
+        "73885": "Aristocrat MKIV"
+    },
+    {
+        "73900": "IDSA Zilog Z80 Based"
+    },
+    {
+        "73893": "Meadows Games S2650 Based"
+    },
+    {
+        "74137": "VIC Dual"
+    },
+    {
+        "73897": "Ace Enterprise M68000 Based"
+    },
+    {
+        "74044": "Palco M68000 Based"
+    },
+    {
+        "73903": "Armenia Z80 Based"
+    },
+    {
+        "90180": "Yuvo TMP84C00AU"
+    },
+    {
+        "73911": "Sanritsu Z80 Based"
+    },
+    {
+        "73923": "Barcrest MPU4 Video System"
+    },
+    {
+        "73921": "System Super 23"
+    },
+    {
+        "73932": "Yun Sung M68000 Based"
+    },
+    {
+        "73935": "Sovic Z180 Based"
+    },
+    {
+        "73930": "\"Unknown\" M6502 Based"
+    },
+    {
+        "73927": "Jaleco Mega System 1"
+    },
+    {
+        "73944": "Amenip Z80 Based"
+    },
+    {
+        "73941": "Dynax Z80 Based"
+    },
+    {
+        "73938": "Atari System 2"
+    },
+    {
+        "73950": "E-Scape EnterMedia TMS34010 Based"
+    },
+    {
+        "29555": "Capcom Z80 Based"
+    },
+    {
+        "73954": "Promat M68000 Based"
+    },
+    {
+        "73956": "Bally PC Based"
+    },
+    {
+        "73959": "Sega Zilog Z80 Based"
+    },
+    {
+        "73962": "BFM Bell-Fruit Cobra I"
+    },
+    {
+        "73965": "Midcoin Z80 Based"
+    },
+    {
+        "73970": "Arcadia System"
+    },
+    {
+        "73975": "Namco Z80 Based"
+    },
+    {
+        "73978": "Green Soft Z80 Based"
+    },
+    {
+        "73981": "Atlus M68000 Based"
+    },
+    {
+        "73984": "Allied Leisuez i8080 Based"
+    },
+    {
+        "74236": "System 12"
+    },
+    {
+        "73992": "UPL M68000 Based"
+    },
+    {
+        "74001": "Act-fancer hardware"
+    },
+    {
+        "73995": "Technos Japan M6502 Based"
+    },
+    {
+        "73864": "TourVision PC-Engine"
+    },
+    {
+        "74003": "Amcoe CGA Boards"
+    },
+    {
+        "85135": "Space Position Hardware"
+    },
+    {
+        "74007": "TCH M68000 Based"
+    },
+    {
+        "74012": "Aristocrat MK5"
+    },
+    {
+        "74015": "Capcom Mitchell"
+    },
+    {
+        "74034": "SemiCom E1-32XN Based"
+    },
+    {
+        "74040": "Atari M6502 Colour Raster Based"
+    },
+    {
+        "74024": "Jaleco M6809 Based"
+    },
+    {
+        "74056": "System 21"
+    },
+    {
+        "74026": "Atari M6502 Vector Based"
+    },
+    {
+        "74028": "Konami Endeavour"
+    },
+    {
+        "74037": "Signatron USA Z80 Based"
+    },
+    {
+        "74046": "Taito F2 System"
+    },
+    {
+        "74054": "Kaneko Z80 Based"
+    },
+    {
+        "74058": "System Super 22"
+    },
+    {
+        "74051": "Comad M68000 Based"
+    },
+    {
+        "74065": "Taito Air System"
+    },
+    {
+        "74060": "Irem M-72"
+    },
+    {
+        "74022": "Sony ZN-1"
+    },
+    {
+        "74069": "Seibu Z80 Based"
+    },
+    {
+        "74067": "Atari System IV"
+    },
+    {
+        "74077": "Kyugo Zilog Z80 Based"
+    },
+    {
+        "74251": "Seta 1st Generation Hardware"
+    },
+    {
+        "74087": "Sega Genesis Based Bootleg"
+    },
+    {
+        "74089": "Nasco Z80 Based"
+    },
+    {
+        "74094": "Toaplan 8-bit Hardware"
+    },
+    {
+        "74083": "Taito F3 System"
+    },
+    {
+        "74098": "Sega Z80 Based"
+    },
+    {
+        "74100": "Williams 6809 Rev.1"
+    },
+    {
+        "74103": "IGS M68000 Based"
+    },
+    {
+        "74106": "United Amusements PC-Engine Based Hardware"
+    },
+    {
+        "74115": "Namco M6809 Based"
+    },
+    {
+        "74111": "Forbes M6502 Based"
+    },
+    {
+        "74122": "Capcom SH-4 Based"
+    },
+    {
+        "74126": "Leland Z80 Based"
+    },
+    {
+        "74130": "Cinematronics Z80 Based"
+    },
+    {
+        "74133": "Gaelco GAE1"
+    },
+    {
+        "74139": "SNK Z80 Based"
+    },
+    {
+        "74145": "Taito SJ System"
+    },
+    {
+        "74150": "Cidelsa CDP1802 Based"
+    },
+    {
+        "74157": "IGS IGS027A Based"
+    },
+    {
+        "74160": "Tecfri Z80 Based"
+    },
+    {
+        "74163": "Tago Electronics Z80 Based"
+    },
+    {
+        "74165": "Taito L System"
+    },
+    {
+        "74190": "Novotech Austrian Gaming System"
+    },
+    {
+        "74167": "Amusco i8088 Based"
+    },
+    {
+        "74170": "Novomatic Z80 Based"
+    },
+    {
+        "74173": "Universal Z80 Based"
+    },
+    {
+        "74176": "Enerdyne Technologies Z80 Based"
+    },
+    {
+        "74179": "Merit CRT-250"
+    },
+    {
+        "74182": "Ameri TMS34010 Based"
+    },
+    {
+        "74201": "Namco System 23"
+    },
+    {
+        "74187": "Greyhound Electronics Hardware"
+    },
+    {
+        "74196": "Irem M-11"
+    },
+    {
+        "74208": "Sigma B-98"
+    },
+    {
+        "74211": "Taito Z80 Based"
+    },
+    {
+        "74223": "Stern Electronics Z80 Based"
+    },
+    {
+        "74219": "Tatsumi M68000 Based"
+    },
+    {
+        "74226": "Central Denshi Z80 Based"
+    },
+    {
+        "74216": "Atari Discrete Logic Hardware"
+    },
+    {
+        "74229": "Sandii' M65SC02 Based"
+    },
+    {
+        "74233": "Taito Z System"
+    },
+    {
+        "74240": "Excellent System M68000 Based"
+    },
+    {
+        "74243": "Sun Electronics Z80 Based"
+    },
+    {
+        "74249": "Zaccaria Z80 Based"
+    },
+    {
+        "74289": "Incredible Technologies 8-Bit Blitter Variant"
+    },
+    {
+        "74279": "Tecmo Z80 Based"
+    },
+    {
+        "74256": "NMK M68000 Based"
+    },
+    {
+        "74238": "System H-1"
+    },
+    {
+        "74259": "Nexus 3D System"
+    },
+    {
+        "74265": "Midway Graphite"
+    },
+    {
+        "74263": "Bally Midway MCR-68k"
+    },
+    {
+        "74277": "Jaleco Z80 Based"
+    },
+    {
+        "74286": "Taito 8-bit Hardware"
+    },
+    {
+        "74292": "Jaleco M68000 Based"
+    },
+    {
+        "74254": "Atari M68000 Based"
+    },
+    {
+        "74273": "Atari Media GX"
+    },
+    {
+        "74295": "Nintendo Z80 Based"
+    },
+    {
+        "74298": "Nichibutsu M68000 Based"
+    },
+    {
+        "74304": "Cinematronics Vector Hardware"
+    },
+    {
+        "74311": "Advanced Video Technology Z80 Based"
+    },
+    {
+        "74319": "Taito M68000 Based"
+    },
+    {
+        "74400": "Electronic Games Systems i8080 B&W Based"
+    },
+    {
+        "74329": "Konami M68000 Based"
+    },
+    {
+        "74337": "Data East M6502 Based"
+    },
+    {
+        "74340": "Exidy M6502 Based"
+    },
+    {
+        "74326": "Namco System 2"
+    },
+    {
+        "74369": "Irem Z80 Based"
+    },
+    {
+        "74355": "Zaccaria S2650 Based"
+    },
+    {
+        "74349": "Leijac Z80 Based"
+    },
+    {
+        "74347": "System E"
+    },
+    {
+        "74352": "Taito i8080 B&W Based"
+    },
+    {
+        "74360": "Sidam i8080 B&W Based"
+    },
+    {
+        "74381": "Konami M6809 Based"
+    },
+    {
+        "74364": "Fuuki FG-3 System"
+    },
+    {
+        "74383": "Epos Z80 Based"
+    },
+    {
+        "74386": "Atronic Slots Machine"
+    },
+    {
+        "74371": "Atari M6502 B&W Raster Based"
+    },
+    {
+        "74398": "Exidy Discrete Logic Hardware"
+    },
+    {
+        "74404": "Ryoto Electric M6502 Based"
+    },
+    {
+        "74407": "Gaelco 3D"
+    },
+    {
+        "74413": "Nichibutsu Z80 Based"
+    },
+    {
+        "74416": "Miki Syouji Z80 Based"
+    },
+    {
+        "74421": "Amstar i8085A Based"
+    },
+    {
+        "74410": "Data East Mec-M1"
+    },
+    {
+        "74423": "Electra Discrete Logic Hardware"
+    },
+    {
+        "74469": "Namco NA-1"
+    },
+    {
+        "74430": "Centuri M68000 Based"
+    },
+    {
+        "74434": "Rait Electronics Z80 Based"
+    },
+    {
+        "74437": "Data East M6809 Based"
+    },
+    {
+        "74440": "SemiCom M68000 Based"
+    },
+    {
+        "74446": "IGT/INTERFLIP Video Poker"
+    },
+    {
+        "74452": "SunA M68000 Based"
+    },
+    {
+        "74427": "Data East MLC System"
+    },
+    {
+        "74457": "ADP M68000 Based"
+    },
+    {
+        "74463": "Valadon Automation Z80 Based"
+    },
+    {
+        "74473": "Metro System"
+    },
+    {
+        "74476": "Syrmex M68000 Based"
+    },
+    {
+        "74568": "Konami M2"
+    },
+    {
+        "74497": "Gaelco CG-1V"
+    },
+    {
+        "74521": "Konami System 573"
+    },
+    {
+        "74485": "Able Z80 Based"
+    },
+    {
+        "74500": "Entertainment Technology M68000 Based"
+    },
+    {
+        "74491": "Nintendo i8080 Based"
+    },
+    {
+        "74507": "Ramtek i8080 Based"
+    },
+    {
+        "74530": "Konami HD6309 Based"
+    },
+    {
+        "89673": "Zaxxon hardware"
+    },
+    {
+        "74536": "Seibu SPI"
+    },
+    {
+        "74541": "Omori Electric Z80 Based"
+    },
+    {
+        "74544": "Sigma Z80 Based"
+    },
+    {
+        "74547": "Alpha Denshi M68000 Based"
+    },
+    {
+        "74563": "Microprose Games 3D Hardware"
+    },
+    {
+        "74559": "Technos Japan M6809 Based"
+    },
+    {
+        "74561": "Comsoft Z80 Based"
+    },
+    {
+        "74571": "Home Data M6809 Based"
+    },
+    {
+        "74575": "Electronic Arts TMS34020 Based"
+    },
+    {
+        "74579": "Project Support Engineering Discrete Hardware"
+    },
+    {
+        "74588": "Teknon Kogyo Z80 Based"
+    },
+    {
+        "74592": "SNK M68000 Based"
+    },
+    {
+        "74698": "WMS i80188 Based"
+    },
+    {
+        "74615": "Konami Bemani Twinkle"
+    },
+    {
+        "74602": "Konami Bemani DJ Main"
+    },
+    {
+        "74598": "Konami GV System"
+    },
+    {
+        "74594": "SNK Hyper NeoGeo 64"
+    },
+    {
+        "74600": "Atari ASAP Cpu Based"
+    },
+    {
+        "74645": "Data East LaserDisc"
+    },
+    {
+        "74631": "Konami PC Based"
+    },
+    {
+        "74652": "Taito M6809 Based"
+    },
+    {
+        "74634": "AMT M68000 Based"
+    },
+    {
+        "74648": "Maygay MV1"
+    },
+    {
+        "74657": "Jaleco Mega System 32"
+    },
+    {
+        "74642": "Tong Electronic M6809 Based"
+    },
+    {
+        "74627": "Konami Bemani Firebeat"
+    },
+    {
+        "74661": "F2 System M68000 Based"
+    },
+    {
+        "74671": "Incredible Technologies Eagle System"
+    },
+    {
+        "74676": "Dynasoft Z80 Based"
+    },
+    {
+        "74665": "\"Unknown\" MSX2 Home Computer Based"
+    },
+    {
+        "74679": "Status Games i8085A Based"
+    },
+    {
+        "74729": "M1"
+    },
+    {
+        "74683": "Fun World M65C02 Based"
+    },
+    {
+        "74701": "Playmark M68000 Based"
+    },
+    {
+        "74690": "Gaelco M68000 Based"
+    },
+    {
+        "74692": "Falcon Z80 Based"
+    },
+    {
+        "74704": "Meadow Games S2650 Based"
+    },
+    {
+        "74713": "D.G.R.M. M6502 Based"
+    },
+    {
+        "74708": "Nichibutsu DVD HW Based"
+    },
+    {
+        "74710": "Peni Z80 Based"
+    },
+    {
+        "74716": "Terminal i8080 Based"
+    },
+    {
+        "74719": "Nakanihon M68000 Based"
+    },
+    {
+        "74721": "Game-A-Tron Z80 Based"
+    },
+    {
+        "74726": "HP Automaten H8/3002 Based"
+    },
+    {
+        "74731": "\"Unknown\" i80186 Based"
+    },
+    {
+        "74741": "Capcom M68000 Based"
+    },
+    {
+        "82826": "3DO Interactive Multiplayer"
+    },
+    {
+        "74738": "Midway Seattle"
+    },
+    {
+        "74744": "Fun Games Discrete Logic Hardware"
+    },
+    {
+        "74751": "Mama Top Z80 Based"
+    },
+    {
+        "74755": "Subsino Gambling Games"
+    },
+    {
+        "74758": "Sphinx Z80 Based"
+    },
+    {
+        "74765": "TDS & MINTS Z80 Based"
+    },
+    {
+        "74775": "Yang Gi Co Z80 Based"
+    },
+    {
+        "74778": "D.G.R.M. M68000 Based"
+    },
+    {
+        "74809": "Technos Japan M68000 Based"
+    },
+    {
+        "74812": "Kiwako Z80 Based"
+    },
+    {
+        "74815": "Visco M68000 Based"
+    },
+    {
+        "74866": "Meadows Games Discrete Logic Hardware"
+    },
+    {
+        "74820": "TAD M68000 Based"
+    },
+    {
+        "74817": "ABM Electronics M68000 Based"
+    },
+    {
+        "74833": "Dooyong Z80 Based"
+    },
+    {
+        "74836": "Bally Midway Z80 Based"
+    },
+    {
+        "74842": "Eolith Ghost System"
+    },
+    {
+        "74851": "Namco i8080 Based"
+    },
+    {
+        "74853": "Tehkan Z80 Based"
+    },
+    {
+        "74858": "Irem M-97"
+    },
+    {
+        "74889": "Taff System E1-16T Based"
+    },
+    {
+        "74873": "Jetsoft Z80 Based"
+    },
+    {
+        "74883": "Data East Unique hardware"
+    },
+    {
+        "74878": "Wing Z80 Based"
+    },
+    {
+        "74904": "Itisa Z80 Based"
+    },
+    {
+        "74898": "System C-2"
+    },
+    {
+        "74900": "International Games V20 Based"
+    },
+    {
+        "74917": "P&P Marketing M6809 Based"
+    },
+    {
+        "74907": "C.M.C. M65C02 Based"
+    },
+    {
+        "74914": "GCTech PC Based"
+    },
+    {
+        "74921": "Atlus H8/3008 Based"
+    },
+    {
+        "74928": "High Video i80186 Based"
+    },
+    {
+        "74925": "Konami Viper"
+    },
+    {
+        "83389": "Super A'Can"
+    },
+    {
+        "74955": "Cheil Computer System Z80 Based"
+    },
+    {
+        "74950": "SunA Z80 Based"
+    },
+    {
+        "74962": "Afega M68000 Based"
+    },
+    {
+        "74958": "Photon IK-3 System"
+    },
+    {
+        "74972": "Alpha Z80 Based"
+    },
+    {
+        "74980": "Duintronic Z80 Based"
+    },
+    {
+        "74987": "Entretenimientos GEMINIS i8051 Based"
+    },
+    {
+        "74991": "Tatsumi i8086 Based"
+    },
+    {
+        "74983": "Sega Z80 3D System"
+    },
+    {
+        "75018": "Marian Electronics Z80 Based"
+    },
+    {
+        "75000": "Magic Electronics S2650 Based"
+    },
+    {
+        "75031": "Crux Z80 Based"
+    },
+    {
+        "75007": "Unico Electronics M68000 Based"
+    },
+    {
+        "75026": "\"Unknown\" Z80 Based"
+    },
+    {
+        "75033": "JPM System 6"
+    },
+    {
+        "75028": "Bordun International Z80 Based"
+    },
+    {
+        "75038": "AMT Z180 Based"
+    },
+    {
+        "75047": "Cal Omega System"
+    },
+    {
+        "75084": "The Game Room PC Based"
+    },
+    {
+        "75088": "Atari Seattle"
+    },
+    {
+        "75110": "Capcom M6809 Based"
+    },
+    {
+        "75121": "Tehkan i8085A Based"
+    },
+    {
+        "75123": "Data East 32 bit ARM6 Based"
+    },
+    {
+        "75152": "Midway Vegas"
+    },
+    {
+        "75135": "Veltmeijer 80C32 Based"
+    },
+    {
+        "75103": "Data East Simple 156"
+    },
+    {
+        "75148": "Amcoe Z80 Based"
+    },
+    {
+        "75145": "BS Electronics Z80 Based"
+    },
+    {
+        "75105": "Atari M6800 Based"
+    },
+    {
+        "75197": "Exidy 440"
+    },
+    {
+        "75188": "Yun Sung Z80 Based"
+    },
+    {
+        "75163": "Zilec-Zenitone Z80 Based"
+    },
+    {
+        "75165": "Kupidon MC68340 Based"
+    },
+    {
+        "75172": "Meyco Games i8080 Based"
+    },
+    {
+        "75180": "Merit Z80 Based"
+    },
+    {
+        "75168": "JPM System 5"
+    },
+    {
+        "75185": "Dyna Electronics Z80 Based"
+    },
+    {
+        "75192": "MTM Games Z80 Based"
+    },
+    {
+        "75201": "Wintechno M68000 Based"
+    },
+    {
+        "75208": "Cosmodog M65C02 Based"
+    },
+    {
+        "75154": "Italian Gambling Games H8/3337 Based"
+    },
+    {
+        "75232": "IGS Z80 Based"
+    },
+    {
+        "75215": "Game Plan M6502 Based"
+    },
+    {
+        "75218": "Jaleco M6502 Based"
+    },
+    {
+        "75220": "Amusement Game N2A03 Based"
+    },
+    {
+        "75222": "Alpha Denshi Z80 Based"
+    },
+    {
+        "75251": "SSV System"
+    },
+    {
+        "75227": "Nasco Japan Z80 Based"
+    },
+    {
+        "75229": "SGS Z80 Based"
+    },
+    {
+        "75263": "Taito G-Net"
+    },
+    {
+        "75225": "Sega SG-1000 Hardware Based"
+    },
+    {
+        "75242": "Seta Z80 Based"
+    },
+    {
+        "75248": "PAL System Z80 Based"
+    },
+    {
+        "75254": "Orca Z80 Based"
+    },
+    {
+        "75257": "IGS IGS036 Based"
+    },
+    {
+        "75234": "\"Unknown\" Z180 Based"
+    },
+    {
+        "75310": "LAI Games TMS34010 Based"
+    },
+    {
+        "75290": "Corsica Z80 Based"
+    },
+    {
+        "75271": "Zilec Z80 Based"
+    },
+    {
+        "75275": "Art & Magic M68000 Based"
+    },
+    {
+        "75313": "Bally / Sente SAC-I"
+    },
+    {
+        "75284": "Dyna V25 Based"
+    },
+    {
+        "75298": "Assogiochi Assago M68000 Based"
+    },
+    {
+        "75323": "Video System Z80 Based"
+    },
+    {
+        "75326": "Taiyo Z80 Based"
+    },
+    {
+        "75366": "Allied Leisure Z80 Based"
+    },
+    {
+        "75342": "Coastal Amusements M68000 Based"
+    },
+    {
+        "75361": "Wood Place Z80 Based"
+    },
+    {
+        "75371": "Ramtek Discrete Logic Hardware"
+    },
+    {
+        "75368": "Model Racing i8080 B&W Based"
+    },
+    {
+        "75376": "Stern Electronics LaserDisc"
+    },
+    {
+        "75388": "BFM Bell-Fruit Scorpion IV"
+    },
+    {
+        "75398": "Petaco M6502 Based"
+    },
+    {
+        "75402": "Coinmaster Gaming VGA Board"
+    },
+    {
+        "75417": "SoftClub M68000 Based"
+    },
+    {
+        "75424": "Midway Z80 Based"
+    },
+    {
+        "75421": "ExPotato PC Based"
+    },
+    {
+        "75431": "Yachiyo Denki Z80 Based"
+    },
+    {
+        "75447": "SemiCom E1-16T Based"
+    },
+    {
+        "75549": "American Laser Games"
+    },
+    {
+        "75456": "Atari LaserDisc"
+    },
+    {
+        "75449": "Catalina TMS34010 Based"
+    },
+    {
+        "75452": "H1"
+    },
+    {
+        "75466": "Cinematronics M68000 Based"
+    },
+    {
+        "75469": "Universal TMS9980 Based"
+    },
+    {
+        "75475": "TDS & MINTS i8080 B&W Based"
+    },
+    {
+        "75480": "Century CVS System"
+    },
+    {
+        "75522": "Sealy SE3208 Based"
+    },
+    {
+        "75507": "Bally Midway MCR-3"
+    },
+    {
+        "75489": "Nihon System Z80 Based"
+    },
+    {
+        "75493": "CES M68000 Based"
+    },
+    {
+        "75497": "Tazmi Zilog Z80 Based"
+    },
+    {
+        "75512": "Crazy Z80 Based"
+    },
+    {
+        "75519": "Sealy H8/3044 Based"
+    },
+    {
+        "75529": "Igrosoft Z80 Based"
+    },
+    {
+        "75580": "Midway Zeus 2"
+    },
+    {
+        "75537": "Eolith Vega System"
+    },
+    {
+        "75540": "Noraut Poker System"
+    },
+    {
+        "75566": "\"Unknown\" SE3208 Based"
+    },
+    {
+        "75557": "JPM M68000 Based"
+    },
+    {
+        "75561": "Deniam-16b"
+    },
+    {
+        "75591": "J.C.D. srl M65C02 Based"
+    },
+    {
+        "75588": "Konami GQ System"
+    },
+    {
+        "75597": "JCD srl M65SC02 Based"
+    },
+    {
+        "75600": "Compumatic Z80 Based"
+    },
+    {
+        "75603": "Simutrek M68000 Based"
+    },
+    {
+        "75609": "Konami Twin16"
+    },
+    {
+        "75612": "Gottlieb Video Hardware"
+    },
+    {
+        "75615": "SemiCom M68EC020 Based"
+    },
+    {
+        "75625": "Coreland M68000 Based"
+    },
+    {
+        "75637": "Success M68000 Based"
+    },
+    {
+        "75646": "SystemBit M68000 Based"
+    },
+    {
+        "75665": "Konami Bemani System 573 Analog"
+    },
+    {
+        "75655": "Best System Z80 Based"
+    },
+    {
+        "75661": "South West Research Z80 Based"
+    },
+    {
+        "75704": "Taito JC System"
+    },
+    {
+        "75706": "The Game Room HD6309 Based"
+    },
+    {
+        "75693": "System 11"
+    },
+    {
+        "75713": "Psikyo SH2"
+    },
+    {
+        "75722": "Seta M68EC020 Based"
+    },
+    {
+        "75766": "Cave PC Hardware"
+    },
+    {
+        "75747": "Seibu V30 Based"
+    },
+    {
+        "75780": "Artic Z80 Based"
+    },
+    {
+        "75808": "Bally Astrocade"
+    },
+    {
+        "75756": "Zenitone M6809 Based"
+    },
+    {
+        "75790": "ESD M68000 Based"
+    },
+    {
+        "75812": "Winkysoft M68000 Based"
+    },
+    {
+        "75831": "Video Optics Z80 Based"
+    },
+    {
+        "75804": "Toaplan System 1"
+    },
+    {
+        "75798": "Chicago Coin Discrete Logic Hardware"
+    },
+    {
+        "75826": "Tecmo M68000 Based"
+    },
+    {
+        "75851": "Electrocoin Z80 Based"
+    },
+    {
+        "75858": "KH Video M6809 Based"
+    },
+    {
+        "75875": "Astro CGA Hardware"
+    },
+    {
+        "75888": "Soft Art Z80 Based"
+    },
+    {
+        "75894": "Electronic Devices M68000 Based"
+    },
+    {
+        "75936": "Dynax M68000 Based"
+    },
+    {
+        "75931": "Bally Midway MCR-2"
+    },
+    {
+        "75927": "Wonwoo Systems Z80 Based"
+    },
+    {
+        "75943": "BMC M68000 Based"
+    },
+    {
+        "75972": "Cadence Technology Z80 Based"
+    },
+    {
+        "75961": "Sunsoft Z80 Based"
+    },
+    {
+        "75984": "Min M68000 Based"
+    },
+    {
+        "75969": "HAR M68000 Based"
+    },
+    {
+        "75987": "Mitchell M68000 Based"
+    },
+    {
+        "75989": "Jubilee TMS9980 Based"
+    },
+    {
+        "76003": "Nics M68000 Based"
+    },
+    {
+        "76012": "Unico M68000 Based"
+    },
+    {
+        "76016": "Konami Tasman"
+    },
+    {
+        "76045": "BTE i8088 Based"
+    },
+    {
+        "76029": "Cinematronics LaserDisc"
+    },
+    {
+        "76048": "Bally Midway MCR-1"
+    },
+    {
+        "76031": "Leland LaserDisc"
+    },
+    {
+        "76033": "Banpresto M68000 Based"
+    },
+    {
+        "76041": "IGT i8039 Based"
+    },
+    {
+        "76053": "Electro-Sport i8085A Based"
+    },
+    {
+        "76056": "Excellent System Z80 Based"
+    },
+    {
+        "76058": "NDK M68000 Based"
+    },
+    {
+        "76062": "Nippon Data Kiki Z80 Based"
+    },
+    {
+        "76081": "Shinkai Z80 Based"
+    },
+    {
+        "76097": "Labtronix Technologies M68000 Based"
+    },
+    {
+        "76074": "Model Racing Z80 Based"
+    },
+    {
+        "76109": "Philko Z80 Based"
+    },
+    {
+        "76145": "Invi Image Z80 Based"
+    },
+    {
+        "76148": "The Game Room TMS34010 Based"
+    },
+    {
+        "76151": "Telko Z80 Based"
+    },
+    {
+        "76159": "Accept PC Based"
+    },
+    {
+        "76114": "\"Unknown\" i8080 Based"
+    },
+    {
+        "76198": "Sisteme ARM Based"
+    },
+    {
+        "76182": "NA-2"
+    },
+    {
+        "76174": "dgPIX Entertainment E1-32XT Based"
+    },
+    {
+        "76210": "Orca Z80 based"
+    },
+    {
+        "76180": "Cinematronics S2650 Based"
+    },
+    {
+        "76172": "Seta Aleck64"
+    },
+    {
+        "76204": "Funai LaserDisc"
+    },
+    {
+        "76214": "Italian Gambling Games M16C Based"
+    },
+    {
+        "76247": "Gottlieb TMS34010 Based"
+    },
+    {
+        "76256": "EFO SA Magnet System"
+    },
+    {
+        "76259": "Techstar Z80 Based"
+    },
+    {
+        "76281": "Nintendo FamicomBox"
+    },
+    {
+        "76284": "Kaneko EXPRO-02"
+    },
+    {
+        "76289": "SNK M6502 Based"
+    },
+    {
+        "76294": "Electronic Devices i8086 Based"
+    },
+    {
+        "76310": "Fiberglass i8085A Based"
+    },
+    {
+        "76330": "Seibu SH-2 Based"
+    },
+    {
+        "76343": "Taito FX-1B"
+    },
+    {
+        "76334": "Taito 40-0"
+    },
+    {
+        "76348": "Konami Cobra System"
+    },
+    {
+        "76361": "Novarmatic i8088 Based"
+    },
+    {
+        "76376": "SemiCom E1-32T Based"
+    },
+    {
+        "76370": "Nintendo SNES Based Arcade Games"
+    },
+    {
+        "76373": "System 22.5"
+    },
+    {
+        "76381": "System FL"
+    },
+    {
+        "76386": "Jeil Computer System M68000 Based"
+    },
+    {
+        "76401": "Exidy Universal Game Board V2"
+    },
+    {
+        "76393": "FM Work Z80 Based"
+    },
+    {
+        "76415": "Saero Entertainment E1-32XT Based"
+    },
+    {
+        "76420": "NIX M68000 Based"
+    },
+    {
+        "76424": "IGS M6502 Based"
+    },
+    {
+        "76432": "Cyberdyne Systems Z80 Based"
+    },
+    {
+        "76441": "Jackson Z80 Based"
+    },
+    {
+        "76445": "Clarue Z80 Based"
+    },
+    {
+        "76450": "Toaplan 1987 Hardware"
+    },
+    {
+        "76459": "BFM Bell-Fruit Raster Speed"
+    },
+    {
+        "76466": "Fortex Z80 Based"
+    },
+    {
+        "76507": "Chain Leisure M68000 Based"
+    },
+    {
+        "76512": "Fun World Z80 Based"
+    },
+    {
+        "76514": "Webak Elektronik MPU-12 Platform"
+    },
+    {
+        "76520": "Bailey International Discrete Logic Hardware"
+    },
+    {
+        "76537": "In Chang Electronic Z80 Based"
+    },
+    {
+        "76531": "dgPIX Entertainment PC Based"
+    },
+    {
+        "76540": "Cadillac Jack M68000 Based"
+    },
+    {
+        "76543": "Stella M68000 Based"
+    },
+    {
+        "76547": "Microhard M68000 Based"
+    },
+    {
+        "76550": "Hoei Z80 Based"
+    },
+    {
+        "76560": "Oriental Soft Japan E1-32XT Based"
+    },
+    {
+        "76577": "B.R.L. M68000 Based"
+    },
+    {
+        "76590": "Computer Recreations T11 Based"
+    },
+    {
+        "76593": "CES Multi-Game Video System"
+    },
+    {
+        "76632": "Project Support Engineering Discrete Logic Hardware"
+    },
+    {
+        "76601": "Universal i8080 B&W Based"
+    },
+    {
+        "76629": "IGT i960 Based"
+    },
+    {
+        "76634": "Cristaltec PC Based"
+    },
+    {
+        "76643": "U.S. Games M6809 Based"
+    },
+    {
+        "76696": "Atari Vegas"
+    },
+    {
+        "76688": "Data East HD6309 Based"
+    },
+    {
+        "76694": "Atari M68010 Based"
+    },
+    {
+        "76704": "Eastern M68000 Based"
+    },
+    {
+        "76716": "System 86"
+    },
+    {
+        "76724": "Hanaho Games TMS34010 Based"
+    },
+    {
+        "76731": "Leisure & Allied Z80 Based"
+    },
+    {
+        "76737": "Konami GI"
+    },
+    {
+        "76770": "American Alpha PC Based"
+    },
+    {
+        "76763": "SA M68000 Based"
+    },
+    {
+        "76772": "Eighting HU6280 Based"
+    },
+    {
+        "76775": "Seibu M68000 Based"
+    },
+    {
+        "76801": "Topis Z180 Based"
+    },
+    {
+        "76798": "BFM Bell-Fruit Scorpion II "
+    },
+    {
+        "29672": "Galaga"
+    },
+    {
+        "81269": "System Super 256"
+    },
+    {
+        "76853": "Yung Yu M6502 Based"
+    },
+    {
+        "76860": "Dongsung M68000 Based"
+    },
+    {
+        "76863": "T.I.C. Z80 Based"
+    },
+    {
+        "76872": "Konami Hornet"
+    },
+    {
+        "76881": "Excellent System ES-9209B"
+    },
+    {
+        "76889": "Human M68000 Based"
+    },
+    {
+        "76907": "NB-1"
+    },
+    {
+        "84225": "Atari 7800"
+    },
+    {
+        "76927": "Konami GTI Club Hardware"
+    },
+    {
+        "76915": "Videa M6809 Based"
+    },
+    {
+        "76936": "Atari G42"
+    },
+    {
+        "77424": "Windom Z80 Based"
+    },
+    {
+        "76998": "Taito Discrete Logic Hardware"
+    },
+    {
+        "77003": "Banpresto V30 Based"
+    },
+    {
+        "83702": "Dreamcast"
+    },
+    {
+        "77013": "Fuuki M68000 Based"
+    },
+    {
+        "77027": "Andamiro's Midas Hardware"
+    },
+    {
+        "77226": "Atari G1"
+    },
+    {
+        "77111": "Data East Deco 156"
+    },
+    {
+        "77050": "Alba Z80 Based"
+    },
+    {
+        "77070": "System Multi 32"
+    },
+    {
+        "77059": "Hot-B M68000 Based"
+    },
+    {
+        "77062": "Magic Dreams ARM9 Based"
+    },
+    {
+        "77067": "Atari Polygon Racer Games"
+    },
+    {
+        "77078": "I.G.R. Z80 Based"
+    },
+    {
+        "77116": "Sunsoft M68000 Based"
+    },
+    {
+        "77118": "Haesung Z80 Based"
+    },
+    {
+        "74869": "System 24"
+    },
+    {
+        "77132": "Status Games S2650 Based"
+    },
+    {
+        "77134": "D.R. Korea Z80 Based"
+    },
+    {
+        "77147": "Williams Y Unit"
+    },
+    {
+        "77145": "\"Unknown\" SH-2 Based"
+    },
+    {
+        "77154": "Hi-Soft Z80 Based"
+    },
+    {
+        "77168": "Eastern Micro Electronics Z80 Nased"
+    },
+    {
+        "77173": "Data East Z80 Based"
+    },
+    {
+        "77184": "Barko M68000 Based"
+    },
+    {
+        "77195": "NIX i8088 Based"
+    },
+    {
+        "77203": "E.G. Felaco Z80 Based"
+    },
+    {
+        "77192": "Irem M-62"
+    },
+    {
+        "84724": "Lindbergh"
+    },
+    {
+        "77208": "Impera SCC68070 Based"
+    },
+    {
+        "77234": "Technosoft M68000 Based"
+    },
+    {
+        "77228": "Midway Quicksilver II"
+    },
+    {
+        "77247": "Atari M6809 Based"
+    },
+    {
+        "77252": "Excel Z80 Based"
+    },
+    {
+        "77257": "Jaleco MJ-8956 HW"
+    },
+    {
+        "77260": "Digital Soft Z80 Based"
+    },
+    {
+        "77264": "System Service Z80 Based"
+    },
+    {
+        "77279": "San Remo Games i80186 Based"
+    },
+    {
+        "77286": "Acom Z80 Based"
+    },
+    {
+        "77290": "RB Bologna Z80 Based"
+    },
+    {
+        "74072": "System 32"
+    },
+    {
+        "77316": "Williams 6809 Rev.2"
+    },
+    {
+        "77341": "Zenitone-Microsec i8080 B&W Based"
+    },
+    {
+        "77322": "BFM Bell-Fruit Viper"
+    },
+    {
+        "77353": "Public Software Z80 Based"
+    },
+    {
+        "77327": "Barko Z80 Based"
+    },
+    {
+        "77337": "Nova Games Z80 Based"
+    },
+    {
+        "77345": "Midway Zeus"
+    },
+    {
+        "77351": "Irem M-10"
+    },
+    {
+        "77383": "Electronic Projects M68000 Based"
+    },
+    {
+        "77375": "Hara Industries Z80 Based"
+    },
+    {
+        "77395": "Toaplan Z80 Based"
+    },
+    {
+        "77402": "Eagle Z180 Based"
+    },
+    {
+        "77881": "Wing Z180 Based"
+    },
+    {
+        "77414": "Face Z80 Based"
+    },
+    {
+        "77435": "ICE PC Based"
+    },
+    {
+        "77438": "Global Z80 Based"
+    },
+    {
+        "77445": "Vesely Svet M65C02 Based"
+    },
+    {
+        "77449": "Coinmaster Z80 Based"
+    },
+    {
+        "77454": "TAB Austria M65C02 Based"
+    },
+    {
+        "77459": "Impera M65C02 Based"
+    },
+    {
+        "77470": "Yuvo TMP68301 Based"
+    },
+    {
+        "77481": "Rock-Ola Z80 Based"
+    },
+    {
+        "77490": "F2 System E1-16T Based"
+    },
+    {
+        "77495": "Nics Z80 Based"
+    },
+    {
+        "77499": "Yonshi M68000 Based"
+    },
+    {
+        "77527": "Panac Z80 Based"
+    },
+    {
+        "77531": "Visco Z80 Based"
+    },
+    {
+        "77543": "SFC S.R.L. Z80 Based"
+    },
+    {
+        "77566": "Irem M75"
+    },
+    {
+        "77577": "Midway Killer Instinct Hardware"
+    },
+    {
+        "77586": "EZ Graphics E1-32XT Based"
+    },
+    {
+        "77597": "ACL Manufacturing 1983"
+    },
+    {
+        "77603": "I'Max Z80 Based "
+    },
+    {
+        "77616": "Eolith E1-16T Based"
+    },
+    {
+        "77627": "IGS Polygame Master 3"
+    },
+    {
+        "77639": "K.K. International Z80 Based"
+    },
+    {
+        "77688": "Success Z80 Based"
+    },
+    {
+        "82160": "Atari ST"
+    },
+    {
+        "77703": "Success V30 Based"
+    },
+    {
+        "77712": "Mondial Games Z80 Based"
+    },
+    {
+        "77761": "Corona Z80 Based"
+    },
+    {
+        "77717": "TAB Austria Z80 Based"
+    },
+    {
+        "77730": "\"Unknown\" M6802 Based"
+    },
+    {
+        "77736": "Taito LaserDisc"
+    },
+    {
+        "77746": "Subsino H8/3044 Based"
+    },
+    {
+        "77895": "Omega System E1-16T Based"
+    },
+    {
+        "77782": "Tong Electronic M6502 Based"
+    },
+    {
+        "77796": "System 16 Universal"
+    },
+    {
+        "77811": "Digital Controls M6502 Based"
+    },
+    {
+        "77874": "Nibble TMS9900 Based"
+    },
+    {
+        "77819": "Philko M68000 Based"
+    },
+    {
+        "77821": "Tatsumi V30 Based"
+    },
+    {
+        "77835": "Deniam-16c"
+    },
+    {
+        "77840": "Olympia M6800 Based"
+    },
+    {
+        "36312": "Wonderswan"
+    },
+    {
+        "77848": "Video Games GmbH TMS9995 Based"
+    },
+    {
+        "77868": "G.T Enterprise Z80 Based"
+    },
+    {
+        "77910": "Banpresto M68EC020 Based"
+    },
+    {
+        "77923": "Tuning M68000 Based"
+    },
+    {
+        "77956": "Acclaim R5000 Based"
+    },
+    {
+        "77942": "P&A Games M6502 Based"
+    },
+    {
+        "77961": "A.W.P. Games M68000 Based"
+    },
+    {
+        "77998": "Nakanihon TLCS90 Based"
+    },
+    {
+        "77968": "Taito FX-1A"
+    },
+    {
+        "77976": "Pal Company Z80 Based"
+    },
+    {
+        "77983": "Micro Manufacturing PC Based"
+    },
+    {
+        "77991": "Sphinx M68000 Based"
+    },
+    {
+        "78002": "Techno-Top TLCS90 Based"
+    },
+    {
+        "78000": "Dynax TLCS90 Based"
+    },
+    {
+        "78014": "Xex Z80 Based"
+    },
+    {
+        "78020": "Techno-Top Z80 Based"
+    },
+    {
+        "78030": "Spirit Z80 Based"
+    },
+    {
+        "78035": "Fujic Z80 Based"
+    },
+    {
+        "78038": "Nakanihon Z80 Based"
+    },
+    {
+        "78075": "Windom M6809 Based"
+    },
+    {
+        "78070": "Mitchell M6809 Based"
+    },
+    {
+        "78101": "Brooks Z80 Based"
+    },
+    {
+        "78098": "Sphinx DVD HW Based"
+    },
+    {
+        "78114": "Matoba M6809 Based"
+    },
+    {
+        "78130": "Oriental Soft E1-32XT Based"
+    },
+    {
+        "78192": "Kitronix S2650 Based"
+    },
+    {
+        "78256": "Blitz Systems M68000 Based"
+    },
+    {
+        "78291": "Blitz System M6502 Based"
+    },
+    {
+        "78264": "Promat Z80 Based"
+    },
+    {
+        "78209": "Bee-Oh M68000 Based"
+    },
+    {
+        "78240": "Gaelco Z180 Based"
+    },
+    {
+        "78248": "Tamtex Z80 Based"
+    },
+    {
+        "78287": "Auto-Data Graz Z80 Based"
+    },
+    {
+        "78301": "Dinamic M68000 Based"
+    },
+    {
+        "78318": "Merit PC Based"
+    },
+    {
+        "78347": "Atari M68EC020 Based"
+    },
+    {
+        "78386": "Konami ZR107 Based"
+    },
+    {
+        "78349": "First Amusement M68000 Based"
+    },
+    {
+        "78389": "Universal Video Games Z80 Based"
+    },
+    {
+        "78419": "Bonanza Entreprises M6502 Based"
+    },
+    {
+        "78371": "Venture Line i8085A Based"
+    },
+    {
+        "78391": "Elettronica Video-Games M68000 Based"
+    },
+    {
+        "78409": "Amutech i8080 Based"
+    },
+    {
+        "78399": "Sure Milano M68000 Based"
+    },
+    {
+        "78412": "Sang Ho Z80 Based"
+    },
+    {
+        "78427": "Current Technologies Z80 Based"
+    },
+    {
+        "78478": "Sega Discrete Logic Hardware"
+    },
+    {
+        "78447": "Sun GMS30C2116 Based"
+    },
+    {
+        "78453": "EIM M68000 Based"
+    },
+    {
+        "78474": "Yachiyo Electronics M6502 Based"
+    },
+    {
+        "78505": "Nihon Game Z80 Based"
+    },
+    {
+        "78491": "Nintendo 8085A Based"
+    },
+    {
+        "78537": "Midway Y Unit"
+    },
+    {
+        "78509": "IGT Player's Edge Plus"
+    },
+    {
+        "78498": "Logitec Z80 Based"
+    },
+    {
+        "78513": "Olympia i8035 Based"
+    },
+    {
+        "78529": "Sente M68000 Based"
+    },
+    {
+        "78579": "ATW Z80 Based"
+    },
+    {
+        "78543": "F2 System E1-32XT Based"
+    },
+    {
+        "78560": "Golden Games M68000 Based"
+    },
+    {
+        "78555": "ICE TMS34010 Based"
+    },
+    {
+        "78545": "Atari GX2"
+    },
+    {
+        "78589": "Namco Z180 Based"
+    },
+    {
+        "78673": "Williams Z Unit"
+    },
+    {
+        "78593": "Triumph Software Z80 Based"
+    },
+    {
+        "78609": "Amatic Trading Multi Game System"
+    },
+    {
+        "78603": "Nintendo NES Based Multi Games"
+    },
+    {
+        "78678": "Pacific Novelty Z80 Based"
+    },
+    {
+        "78663": "ND-1"
+    },
+    {
+        "78712": "Unidesa i80188 Based"
+    },
+    {
+        "78733": "Ming-Yang Electronic Z80 Based"
+    },
+    {
+        "78747": "New Super Famicom Box"
+    },
+    {
+        "78753": "Sigma M6809 Based"
+    },
+    {
+        "78757": "Poby Z80 Based"
+    },
+    {
+        "78767": "Rock-Ola M6502 Based"
+    },
+    {
+        "78804": "Enter-Tech M6502 Based"
+    },
+    {
+        "78814": "Face M68000 Based"
+    },
+    {
+        "78833": "Playmark Z80 Based"
+    },
+    {
+        "78820": "Novomatic M65C02 Based"
+    },
+    {
+        "78835": "San Remo Games Z80 Based"
+    },
+    {
+        "78825": "NSM TMS9995 Based"
+    },
+    {
+        "78830": "Hanshin Goraku Z80 Based"
+    },
+    {
+        "78861": "Olympic Video Gaming M68000 Based"
+    },
+    {
+        "78885": "Taito Power-JC System"
+    },
+    {
+        "78868": "Subelectro Z80 Based"
+    },
+    {
+        "78870": "Anime Tec Z80 Based"
+    },
+    {
+        "78890": "Daiichi Denshi Z80 Based"
+    },
+    {
+        "78916": "Konami E-Amusement"
+    },
+    {
+        "78937": "SNK i8080 B&W Based"
+    },
+    {
+        "78939": "Proma Z80 Based"
+    },
+    {
+        "78961": "Sanki Denshi Kogyo TMS9995 Based"
+    },
+    {
+        "79006": "Seibu V20 Based"
+    },
+    {
+        "78969": "Miky SRL Z80 Based"
+    },
+    {
+        "78992": "Dong Gue La Mi M68000 Based"
+    },
+    {
+        "78995": "Icarus ARM7 Based"
+    },
+    {
+        "79001": "InfoCube PC Based"
+    },
+    {
+        "79020": "Naxat Soft Z80 Based"
+    },
+    {
+        "79039": "Oksan M68000 Based"
+    },
+    {
+        "79036": "Dong Sung E1-16XT Based"
+    },
+    {
+        "79053": "Screen Z80 Based"
+    },
+    {
+        "79073": "Forte II MSX Hardware Based"
+    },
+    {
+        "79095": "Funworld PC Based"
+    },
+    {
+        "79115": "Electronic Devices S.R.L. Z80 Based"
+    },
+    {
+        "79120": "Alta Z180 Based"
+    },
+    {
+        "79125": "Daehyun Electronics Z80 Based"
+    },
+    {
+        "79154": "Cosmo Electronics M68000 Based"
+    },
+    {
+        "78918": "Apple Z80 Based"
+    },
+    {
+        "79286": "Eterna ARM Based"
+    },
+    {
+        "79317": "Team Play PC Based"
+    },
+    {
+        "79302": "Extrema Systems International Z80 Based"
+    },
+    {
+        "79315": "P&P Marketing R3000 Based"
+    },
+    {
+        "79323": "VEB Mikroelektronik Z80 Based"
+    },
+    {
+        "79321": "Polygonet hardware"
+    },
+    {
+        "79338": "Dooyong M68000 Based"
+    },
+    {
+        "79341": "Dynamo M68HC11 Based"
+    },
+    {
+        "79364": "Olympia Z80 Based"
+    },
+    {
+        "79367": "U.S. Games TMS34010 Based"
+    },
+    {
+        "79390": "Vision Electronics Z80 Based"
+    },
+    {
+        "79424": "Chuo Z80 Based"
+    },
+    {
+        "79402": "Atari GT"
+    },
+    {
+        "79458": "Summit Coin Z80 Based"
+    },
+    {
+        "79446": "Genie M68000 Based"
+    },
+    {
+        "79489": "K1 Soft M68000 Based"
+    },
+    {
+        "79522": "iD Software PC Based"
+    },
+    {
+        "79495": "Nunal M68000 Based"
+    },
+    {
+        "79505": "Para M68000 Based"
+    },
+    {
+        "79527": "ArJay Exports i8085A Based"
+    },
+    {
+        "79535": "STG PC Based"
+    },
+    {
+        "79567": "NMK Z80 Based"
+    },
+    {
+        "79583": "Seoul Coin Z80 Based"
+    },
+    {
+        "79587": "Space Computer Z80 Based"
+    },
+    {
+        "79634": "Konami NWK-TR"
+    },
+    {
+        "79595": "Atari S2650 Based"
+    },
+    {
+        "79620": "Electronic Arts M68EC020 Based"
+    },
+    {
+        "79624": "V-System M68000 Based"
+    },
+    {
+        "79665": "Seibu V33 Based"
+    },
+    {
+        "79650": "BFM Bell-Fruit Cobra III"
+    },
+    {
+        "79711": "Seta M68000 Based"
+    },
+    {
+        "79704": "GMS M68000 Based"
+    },
+    {
+        "79725": "Nakasawa Z80 Based"
+    },
+    {
+        "79733": "Elettronolo Z80 Based"
+    },
+    {
+        "79757": "Nova Productions LaserDisc"
+    },
+    {
+        "79760": "Midway X Unit"
+    },
+    {
+        "79812": "Datel SAS M6502 Based"
+    },
+    {
+        "79832": "Nichibutsu i8080 B&W Based"
+    },
+    {
+        "79880": "Entretenimientos GEMINIS Z80 Based"
+    },
+    {
+        "79839": "Romar Z80 Based"
+    },
+    {
+        "79849": "Kasco i8085A Based"
+    },
+    {
+        "79868": "Royal Denshi Z80 Based"
+    },
+    {
+        "79912": "SNK i8080 Based"
+    },
+    {
+        "79900": "IGT i80C32 Based"
+    },
+    {
+        "79909": "NTC Z80 Based"
+    },
+    {
+        "79943": "Atari Flagstaff"
+    },
+    {
+        "79945": "Atari Denver"
+    },
+    {
+        "79966": "Interactive Light PC Based"
+    },
+    {
+        "80009": "SMS Manufacturing i8088 Based"
+    },
+    {
+        "80057": "Sigma V30 Based"
+    },
+    {
+        "80069": "Sang Ho Soft Z80 Based"
+    },
+    {
+        "80077": "Dutech M68000 Based"
+    },
+    {
+        "80087": "Sunsoft V30 Based"
+    },
+    {
+        "80097": "US Billiards Discrete Logic Hardware"
+    },
+    {
+        "80130": "Seatongrove S2650 Based"
+    },
+    {
+        "80135": "Nova M68000 Based"
+    },
+    {
+        "80154": "Omori Electric i8080 B&W Based"
+    },
+    {
+        "80165": "Ace Video Fruit Machine"
+    },
+    {
+        "80197": "ICE M68EC030 Based"
+    },
+    {
+        "80211": "Venture Line TMS9995 Based"
+    },
+    {
+        "80207": "Shoei Z80 Based"
+    },
+    {
+        "80226": "Nihon System M68000 Based"
+    },
+    {
+        "80238": "Century II M6809 Based"
+    },
+    {
+        "80241": "Hollow M68000 Based"
+    },
+    {
+        "80245": "World Station M68000 Based"
+    },
+    {
+        "80265": "Toaplan M68000 Based"
+    },
+    {
+        "80303": "Z Games Z80 Based"
+    },
+    {
+        "80357": "Taito H8S/2394 Based"
+    },
+    {
+        "80330": "Game-A-Tron i8085A Based"
+    },
+    {
+        "80365": "Braze Technologies i8080 B&W Based"
+    },
+    {
+        "80392": "Sega i8080 Based"
+    },
+    {
+        "80389": "Yachiyo Electronics i8080 Based"
+    },
+    {
+        "80401": "Century S2650 Based"
+    },
+    {
+        "80416": "Senko Industries S2650 Based"
+    },
+    {
+        "80421": "Yona Tech M68000 Based"
+    },
+    {
+        "80451": "ADP Z80 Based"
+    },
+    {
+        "80435": "TCH Z80 Based"
+    },
+    {
+        "80445": "Buena Vision V30 Based"
+    },
+    {
+        "80493": "Data East MEC-M1"
+    },
+    {
+        "80487": "Namco System 21 LaserDisc"
+    },
+    {
+        "80526": "Atari M6809 Vector Based"
+    },
+    {
+        "80550": "Sure Z80 Based"
+    },
+    {
+        "80571": "Allied Leisure Discrete Logic Hardware"
+    },
+    {
+        "80614": "Taito i8080 Based"
+    },
+    {
+        "80598": "New Image Technologies i386 Based"
+    },
+    {
+        "80627": "Nuova Videotron Z80 Based"
+    },
+    {
+        "80653": "Two-Bit Score Z80 Based"
+    },
+    {
+        "80650": "Sigma B52 System"
+    },
+    {
+        "80678": "Data Amusement Z80 Based"
+    },
+    {
+        "80699": "Universal System 1"
+    },
+    {
+        "80690": "GM Shoji Z80 Based"
+    },
+    {
+        "80712": "Seta R3000 Based"
+    },
+    {
+        "80720": "Sega Master System Multi-Game Bootleg"
+    },
+    {
+        "80728": "New Impeuropex M68000 Based"
+    },
+    {
+        "80791": "Seta System S12"
+    },
+    {
+        "80779": "Electronic Projects Z80 Based"
+    },
+    {
+        "80803": "Model Racing INS8050 Based"
+    },
+    {
+        "80831": "Video Games GmbH TMS9980A Based"
+    },
+    {
+        "80839": "Midas M6809 Based"
+    },
+    {
+        "80843": "Gameace M68000 Based"
+    },
+    {
+        "80846": "Nova du Canada Z80 Based"
+    },
+    {
+        "80853": "Fun Tech Z80 Based"
+    },
+    {
+        "80877": "NTC M68000 Based"
+    },
+    {
+        "80885": "Rock-Ola i8085A Based"
+    },
+    {
+        "29677": "Psikyo 1st Generation"
+    },
+    {
+        "80904": "Digital Denshi Z80 Based"
+    },
+    {
+        "80921": "A-1 Supply Discrete Logic Hardware"
+    },
+    {
+        "80926": "Gamart Nec V30 Based"
+    },
+    {
+        "80955": "Uniwang Z80 Based"
+    },
+    {
+        "80966": "Namco M6502 Based"
+    },
+    {
+        "80974": "Moloney Manufacturing Z80 Based"
+    },
+    {
+        "80992": "Graphic Techno Z80 Based"
+    },
+    {
+        "81035": "Thomas Automatics Z80 Based"
+    },
+    {
+        "81055": "Sego ARM7 Based"
+    },
+    {
+        "81067": "RDI Video System LaserDisc"
+    },
+    {
+        "81121": "Dugamex M68000 Based"
+    },
+    {
+        "81175": "Unico M68EC020. Based"
+    },
+    {
+        "81245": "East Coast Coin HD6309 Based"
+    },
+    {
+        "81252": "Raster Elite TMS34010 Based"
+    },
+    {
+        "81263": "Shonan Z80 Based"
+    },
+    {
+        "81280": "Sega i80188 Based"
+    },
+    {
+        "81295": "Media / Sonnet M68EC020 Based"
+    },
+    {
+        "81323": "Exidy M68000 Based"
+    },
+    {
+        "81343": "Game Plan M6800 Based"
+    },
+    {
+        "81329": "BFM Bell-Fruit Scorpion I"
+    },
+    {
+        "81366": "Midway M68000  Based"
+    },
+    {
+        "81384": "Dynamo i486 Based"
+    },
+    {
+        "81402": "Irem M52"
+    },
+    {
+        "81413": "Noma Z80 Based"
+    },
+    {
+        "81467": "Playtronic SRL. M6809 Based"
+    },
+    {
+        "81439": "Joyland S2650 Based"
+    },
+    {
+        "81444": "Thunderhead Z80 Based"
+    },
+    {
+        "81486": "Entertainment Sciences M6809 Based"
+    },
+    {
+        "81449": "Sunn M6809 Based"
+    },
+    {
+        "81494": "Dell Electronics R3041 Based"
+    },
+    {
+        "81500": "Island Design TMS34010 Based"
+    },
+    {
+        "81519": "Electronic Devices V30 Based"
+    },
+    {
+        "81583": "Sidam Z80 Based"
+    },
+    {
+        "81550": "Diatec Z80 Based"
+    },
+    {
+        "81560": "Paloma-Elektronik i80186 Based"
+    },
+    {
+        "81571": "Inter Games M65C02 Based"
+    },
+    {
+        "81577": "Chain Leisure Z80 Based"
+    },
+    {
+        "81580": "San Remo Games ARM7 Based"
+    },
+    {
+        "81587": "TAB Austria M68000 Based"
+    },
+    {
+        "81574": "\"Unknown\" i8085A Based"
+    },
+    {
+        "81593": "Grand Products M68000 Based"
+    },
+    {
+        "81631": "World Game Z80 Based"
+    },
+    {
+        "81705": "VR8 M68000 Based"
+    },
+    {
+        "81717": "VLC M68000 Based"
+    },
+    {
+        "81724": "Zilec i8080 B&W Based"
+    },
+    {
+        "81730": "Nintendo VS."
+    },
+    {
+        "81803": "Meadows Games Z80 Based"
+    },
+    {
+        "35882": "Videopac"
+    },
+    {
+        "81819": "Atari Phoenix"
+    },
+    {
+        "81853": "E.A.I. Z80 Based"
+    },
+    {
+        "81914": "Video Klein M65C02 Based"
+    },
+    {
+        "81939": "Mijin M68000 Based"
+    },
+    {
+        "81978": "Gaelco DS5002FP Based"
+    },
+    {
+        "81983": "Konami Pyson"
+    },
+    {
+        "82004": "Dream Island V30 Based"
+    },
+    {
+        "82007": "A.C.E.S. 2 System"
+    },
+    {
+        "82009": "Jamie System Development PC Based"
+    },
+    {
+        "33756": "Atari Lynx"
+    },
+    {
+        "82092": "LAX Z80 Based"
+    },
+    {
+        "82053": "Yubis Z80 Based"
+    },
+    {
+        "82045": "Golden Bell Entertainment E1-32T Based"
+    },
+    {
+        "82048": "Wing i8080 B&W Based"
+    },
+    {
+        "82062": "Nova Games of Canada Z80 Based"
+    },
+    {
+        "82077": "Unico Electronics M68EC020 Based"
+    },
+    {
+        "81951": "Naomi 2 Satellite Terminal"
+    },
+    {
+        "36407": "Loopy"
+    },
+    {
+        "75820": "Naomi Satellite Terminal"
+    },
+    {
+        "73973": "Nazionale Elettronica System"
+    },
+    {
+        "75321": "\"Unknown\" M65C02 Based"
+    },
+    {
+        "33980": "Neo Geo Pocket"
+    },
+    {
+        "81589": "\"Unknown\" TMS9980 Based"
+    },
+    {
+        "76990": "System 256"
+    },
+    {
+        "76131": "Taito H System"
+    },
+    {
+        "74321": "Taito B System"
+    },
+    {
+        "74471": "Namco System 1"
+    },
+    {
+        "74358": "Sega LaserDisc"
+    },
+    {
+        "83493": "Mega CD II"
+    },
+    {
+        "83478": "SwanCrystal"
+    },
+    {
+        "84753": "Ringedge"
+    },
+    {
+        "84754": "RingEdge 2"
+    },
+    {
+        "83480": "Sorcerer"
+    },
+    {
+        "83481": "Supervision / QuickShot"
+    },
+    {
+        "84756": "Europa-R"
+    },
+    {
+        "84757": "Nu"
+    },
+    {
+        "75739": "Model 3"
+    },
+    {
+        "83491": "Mega CD I"
+    },
+    {
+        "83499": "ColecoVision"
+    },
+    {
+        "84755": "RingWide"
+    },
+    {
+        "84444": "Intellivision"
+    },
+    {
+        "74934": "Golden Poker Double Up Hardware"
+    },
+    {
+        "89674": "Appoooh hardware"
+    },
+    {
+        "80424": "Vectrex"
+    },
+    {
+        "33139": "Nintendo 64DD"
+    },
+    {
+        "75768": "Cave CV1000D"
+    },
+    {
+        "74828": "System 246"
+    },
+    {
+        "36453": "Naomi"
+    },
+    {
+        "84223": "Atari 5200"
+    },
+    {
+        "84224": "Atari 2600"
+    },
+    {
+        "74554": "Taito Type Zero"
+    },
+    {
+        "35853": "Fairchild Channel F"
+    },
+    {
+        "36396": "Virtual Boy"
+    },
+    {
+        "29543": "Capcom Play System 3"
+    },
+    {
+        "82825": "GameCube"
+    },
+    {
+        "82827": "Taito HFS (DarkTrooper)"
+    },
+    {
+        "75946": "Brezzasoft Crystal System"
+    },
+    {
+        "74119": "Mega-Tech System"
+    },
+    {
+        "29648": "Limenko Power System 2"
+    },
+    {
+        "30443": "SuperGrafx"
+    },
+    {
+        "29638": "GX400"
+    },
+    {
+        "30250": "GX4000"
+    },
+    {
+        "33731": "32X"
+    },
+    {
+        "75764": "Cave CV1000B"
+    },
+    {
+        "33990": "SNK Neo Geo Pocket Color"
+    },
+    {
+        "33807": "Game Gear"
+    },
+    {
+        "75535": "Sega Chihiro"
+    },
+    {
+        "89530": "Wii"
+    },
+    {
+        "74074": "Hikaru"
+    },
+    {
+        "77907": "NB-2"
+    },
+    {
+        "73987": "System 16"
+    },
+    {
+        "77308": "Atari System 1"
+    },
+    {
+        "90004": "VMU"
+    },
+    {
+        "74792": "Gremlin i8080 Based"
+    },
+    {
+        "90388": "Exidy Universal Game Board V1"
+    },
+    {
+        "73989": "Namco System 22"
+    },
+    {
+        "73968": "X Board"
+    },
+    {
+        "74948": "System SP / Aurora"
+    },
+    {
+        "253966": "\"Unknow\" Namco based"
+    },
+    {
+        "238990": "ABC 80"
+    },
+    {
+        "29550": "Capcom Section Z"
+    },
+    {
+        "30273": "PC Engine"
+    },
+    {
+        "190647": "EXL 100"
+    },
+    {
+        "190648": "Hector HRX"
+    },
+    {
+        "190649": "Jupiter Ace"
+    },
+    {
+        "145692": "Xbox 360"
+    },
+    {
+        "82351": "Super Nintendo Entertainment System"
+    },
+    {
+        "129592": "Arcadia 2001"
+    },
+    {
+        "88837": "Wii U"
+    },
+    {
+        "73907": "Sega System 1"
+    },
+    {
+        "74932": "Sega System 2"
+    },
+    {
+        "74724": "Sega Hang-On hardware"
+    },
+    {
+        "89235": "Game Boy Color"
+    },
+    {
+        "89667": "Sega Fonz Hardware"
+    },
+    {
+        "74283": "UPL Z80 Based"
+    },
+    {
+        "91841": "Playstation 3"
+    },
+    {
+        "91844": "PS Vita"
+    },
+    {
+        "128704": "N-Gage"
+    },
+    {
+        "124274": "Acorn Electron"
+    },
+    {
+        "100295": "ZX Spectrum"
+    },
+    {
+        "74148": "\"SNK\" M68000 Based"
+    },
+    {
+        "189145": "Epoch Super Cassette Vision"
+    },
+    {
+        "144719": "Xbox"
+    },
+    {
+        "139081": "Android"
+    },
+    {
+        "73854": "Data East Deco Cassette System"
+    },
+    {
+        "98132": "Nintendo DS"
+    },
+    {
+        "89769": "ATARI 8 Bits"
+    },
+    {
+        "89672": "Galaxian-based hardware"
+    },
+    {
+        "239486": "mega duck"
+    },
+    {
+        "190497": "Super Famicom - Sufami Turbo"
+    },
+    {
+        "239404": "CPC 464"
+    },
+    {
+        "239419": "Playstation 5"
+    },
+    {
+        "239420": "Apple pippin"
+    },
+    {
+        "35850": "Adventure Vision"
+    },
+    {
+        "113089": "MSX"
+    },
+    {
+        "75269": "Taito Type X2"
+    },
+    {
+        "80989": "Capcom Nintendo Wii Based Hardware"
+    },
+    {
+        "190501": "Game Pocket Computer"
+    },
+    {
+        "239477": "Google stadia"
+    },
+    {
+        "136148": "Action Max"
+    },
+    {
+        "78309": "Merit CRT-260"
+    },
+    {
+        "136126": "Amiga CD32"
+    },
+    {
+        "73998": "Nintendo Super System"
+    },
+    {
+        "36022": "Game Boy"
+    },
+    {
+        "76670": "Namco System 10"
+    },
+    {
+        "190515": "Super Vision 8000"
+    },
+    {
+        "138925": "Atom"
+    },
+    {
+        "190527": "Aquarius"
+    },
+    {
+        "190534": "VG5000\u00b5"
+    },
+    {
+        "139722": "APF Imagination Machine"
+    },
+    {
+        "139741": "Apogee BK-01"
+    },
+    {
+        "239578": "X68000"
+    },
+    {
+        "190542": "Game & Watch"
+    },
+    {
+        "36345": "WonderSwan Color"
+    },
+    {
+        "73831": "Sega G80 Raster"
+    },
+    {
+        "254108": "ALLS"
+    },
+    {
+        "190502": "BBC Micro"
+    },
+    {
+        "82937": "PlayStation"
+    },
+    {
+        "254122": "Ace Amusement Arcade PC"
+    },
+    {
+        "148845": "Nintendo 3DS"
+    },
+    {
+        "190291": "CreatiVision"
+    },
+    {
+        "74735": "Mega Play"
+    },
+    {
+        "76177": "Sega G80 Vector"
+    },
+    {
+        "79432": "Taito Wolf System"
+    },
+    {
+        "74483": "Playchoice 10"
+    },
+    {
+        "82166": "Master System"
+    },
+    {
+        "80200": "Midway Atlantis"
+    },
+    {
+        "32765": "Nintendo 64"
+    },
+    {
+        "76557": "Y Board"
+    },
+    {
+        "184439": "MSX2"
+    },
+    {
+        "184440": "MSX 2+"
+    },
+    {
+        "184441": "MSX turbo R"
+    },
+    {
+        "82908": "PlayStation 4"
+    },
+    {
+        "147459": "Xbox One"
+    },
+    {
+        "79604": "Philips CD-i Based"
+    },
+    {
+        "175183": "Sega Pico"
+    },
+    {
+        "75672": "Konami Bemani System 573 Digital"
+    },
+    {
+        "75517": "Konami GX"
+    },
+    {
+        "75097": "Eolith Gradation 2D System"
+    },
+    {
+        "74823": "Incredible Technologies 32-Bit Blitter Variant"
+    },
+    {
+        "29475": "Capcom Play System"
+    },
+    {
+        "184593": "Storio"
+    },
+    {
+        "36283": "Famicom Disk System"
+    },
+    {
+        "74049": "Irem M-107"
+    },
+    {
+        "74394": "Irem M-90"
+    },
+    {
+        "74390": "Irem M-63"
+    },
+    {
+        "75806": "Irem M-27"
+    },
+    {
+        "78750": "Irem M-57"
+    },
+    {
+        "79441": "Irem i8085A Based"
+    },
+    {
+        "78522": "Irem M-52"
+    },
+    {
+        "29940": "Super Kaneko Nova System"
+    },
+    {
+        "240879": "Odyssey"
+    }
+]
